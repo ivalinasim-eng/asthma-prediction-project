@@ -1,0 +1,14 @@
+# Core libraries for data handling and numerical operations
+numpy
+pandas
+
+# Visualization libraries
+matplotlib
+seaborn
+
+# Machine Learning and Preprocessing
+scikit-learn
+imbalanced-learn
+
+# Testing Framework
+pytest
